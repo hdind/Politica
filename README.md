@@ -1,4 +1,3 @@
-# Politica e políticos
 ## Projeto do 0
 
 - Web Scraping
@@ -15,3 +14,8 @@
 3) Modelo explicativo: Regressão linear múltipla entre os 4 itens do ranking do Legisla Brasil e a nota do Ranking dos Políticos, por exemplo. Os 4 itens do Legisla explicam qual variabilidade do Ranking dos Políticos?
 
 4) Discussão: Por que são diferentes? Por que são iguais? Existem viéses políticos? São apartidários? Qual sua opinião que justifique os resultados?
+
+## 
+
+https://indice.legislabrasil.org/public/
+https://www.politicos.org.br/Ranking?idRegion=25&regionPrefix=SP
