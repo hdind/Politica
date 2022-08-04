@@ -8,7 +8,7 @@
 
 ##
 
-1) Coleta de dados via web scrapping. Bibliotecas como Selenium e BeautifulSoup podem ajudar.
+1) Coleta de dados via web scrapping. Biblioteca BeautifulSoup.
 
 2) Análise exploratória: Gráficos de dispersão entre nota padronizada dos dois rankings. São correlacionados? Existem outliers?
 
